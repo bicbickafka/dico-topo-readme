@@ -1,6 +1,6 @@
-# Géoréférencer les Dictionnaires topographiques départementaux de la France
+# Liage INSEE des dictionnaires topographiques départementaux de la France
 
-L'application [DicoTopo](https://dicotopo.cths.fr/) réunit en une base de données unique l'ensemble des dictionnaires topographiques départementaux publiés depuis le XIXe siècle. Ce dépôt regroupe les scripts qui enrichissent ces données avec les codes du Code officiel géographique (COG) de 2011. Ce géoréférencement permet de cartographier les toponymes et d'assurer l'interrogation et l'interopérabilité du corpus à travers sa dimension spatiale.[^1] À titre d'exemple, la chaîne de traitement est illustrée par le Dictionnaire topographique du département de la Mayenne, disponible sur [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k204189z/f55.item).
+L'application [DicoTopo](https://dicotopo.cths.fr/) a pour vocation de réunir en une base de données unique l'ensemble des dictionnaires topographiques départementaux publiés depuis le XIXe siècle. Ce dépôt regroupe les scripts qui enrichissent ces données par liage avec les codes du Code officiel géographique (COG) de l'INSEE. Ce liage permet de cartographier les toponymes et d'assurer l'interrogation et l'interopérabilité du corpus à travers sa dimension spatiale.[^1] À titre d'exemple, la chaîne de traitement est illustrée par le Dictionnaire topographique du département de la Mayenne, disponible sur [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k204189z/f55.item).
 
 ![chain](chain.svg)
 
