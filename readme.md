@@ -199,6 +199,8 @@ place_feature_type
 place_old_label
 responsability
 
+-----
+https://github.com/chartes/dico-topo-app/blob/dev/db/utils/bibl_gallica.tsv
 
 
 [^1]: Le géoréférencement permet notamment de trier et filtrer les résultats selon un découpage administratif, de regrouper les lieux par commune d'appartenance, et de travailler aisément à l'échelle nationale, ce que la fragmentation en dictionnaires départementaux rendait complexe et laborieux.
